@@ -1,9 +1,15 @@
+ADB:Android Debug Bridge 
 AVD:Android Virtual Device
 CSS:Cascading Style Sheets
 HTML:Hypertext Markup Language
+IDE:
 JDK:Java Development Kit
+JRE:Java Runtime Environment
 JSON:JavaScript Object Notation
+PDF:
+PNG:Portable Network Graphic
 SDK:Software Development Kit
 SOAP:Simple Object Access Protocol
 XML:Extensive Markup Language
 WLAN:Wireless Local Area Network
+USB:
