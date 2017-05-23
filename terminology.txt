@@ -1,0 +1,9 @@
+AVD:Android Virtual Device
+CSS:Cascading Style Sheets
+HTML:Hypertext Markup Language
+JDK:Java Development Kit
+JSON:JavaScript Object Notation
+SDK:Software Development Kit
+SOAP:Simple Object Access Protocol
+XML:Extensive Markup Language
+WLAN:Wireless Local Area Network
