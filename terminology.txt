@@ -1,15 +1,20 @@
+AAPT:Android Asset Packaging Tool
 ADB:Android Debug Bridge 
 AVD:Android Virtual Device
 CSS:Cascading Style Sheets
+hdpi:high-density screens
 HTML:Hypertext Markup Language
-IDE:
+IDE:integrated development environment
 JDK:Java Development Kit
 JRE:Java Runtime Environment
 JSON:JavaScript Object Notation
-PDF:
+mdpi:medium-density screens
+MVC: Model-View-Controller
+PDF:portable document format
 PNG:Portable Network Graphic
 SDK:Software Development Kit
 SOAP:Simple Object Access Protocol
+xhdpi:extra-high-density screens
 XML:Extensive Markup Language
 WLAN:Wireless Local Area Network
-USB:
+USB:Universal Serial Bus
